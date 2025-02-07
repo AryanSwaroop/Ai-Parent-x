@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "module": "NodeNext",            // Use NodeNext for ESM, or "CommonJS" for CJS
+    "moduleResolution": "NodeNext",   // Ensure module resolution is correct
+    "esModuleInterop": true,          // Enable interop for ES modules
+    "strict": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  }
+}
