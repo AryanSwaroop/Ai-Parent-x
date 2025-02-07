@@ -1,5 +1,5 @@
 import express from 'express';
-import user from "../Logging/user";
+import user from "../Security/JWT/user";
 
 const app = express();
 app.use(express.json());
